@@ -266,7 +266,7 @@ header {
 }
 @media (max-width: 738px) {
   header {
-    height: 110vh;
+    height: 150vh;
   }
   .header-logo {
     margin: 0;
